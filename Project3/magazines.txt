@@ -1,0 +1,78 @@
+A Christmas Carol in Prose/Charles Dickens/Chapman and Hall/Historical Fiction/3053/20/
+Pride and Prejudice/Jane Austen/Thomas Egerton/Drama/2593/45/
+The Scarlet Letter/Nathaniel Hawthorne/Ticknor and Fields/Romance/2200/50/
+Anthem/Ayn Rand/Independent Academic/Sci-fi/1445/46/
+The Importance of Being Earnest/Oscar Wilde/Cassell/Comedy/1421/56/
+A Modest Proposal/Jonathan Swift/Simon and Schuster/Fiction/1341/78/
+Et dukkehjem. English/Henrik Ibsen/HENRIK/Tragedy/1323/65/
+The Awakening/Kate Chopin/Simon and Brown/Fiction/1248/37/
+Alice's Adventures in Wonderland/Lewis Carroll/Macmillan Publishers/Fantastic/1183/75/
+The Yellow Wallpaper/Charlotte Perkins Gilman/Charlotte Perkins Gilman/Fiction/1156/46/
+Metamorphosis/Franz Kafka/Fantastic/Kurt Wolff/1080/15/
+War and Peace/Leo Tolstoy/The Russian Messenger/War/448/45/
+The Strange Case/Robert Louis Stevenson/Longman Publishing Group/Horror/1077/78/
+A Tale of Two Cities/Charles Dickens/Chapman and Hall/Historical Fiction/1068/15/
+Adventures of Huckleberry Finn/Mark Twain/Chatto and Windus /Adventure/972/120/
+Life of Frederick Douglass/Frederick Douglass/Anti-Slavery Office/Autobiography/971/35/
+Moby Dick/Herman Melville/Richard Bentley/Adventure/944/94/
+A Pickle for the Knowing Ones/Timothy Dexter/Repressed Publishing/Comedy/892/40/
+A Christmas Carol/Charles Dickens/Chapman and Hall/Fiction/833/20/
+Adventures of Sherlock Holmes/Arthur Conan Doyle/George Newnes/Fantastic/775/75/
+Jane Eyre/Charlotte Bronte/Smith,Elder and Co./Romantic/765/62/
+Ethan Frome/Edith Wharton/Charles Scribner's Sons/Fiction/442/25/
+Beowulf/Anglo-Saxon/Simon and Schuster/Poem/753/12/
+Il Principe English/Niccolo Machiavelli/Jiahu Books/Historical Finction/711/45/
+The Picture of Dorian Gray/Oscar Wilde/Simon and Schuster/Philosophy/653/78/
+Dracula/Bram Stoker/Robinson/Fantastic/634/21/
+The Call of the Wild/Jack London/Macmillan Inc./Adventure/628/132/
+1970:A Vision of the Coming Age/John Collins/Forgotten Books/Poem/594/78/
+The Adventures of Tom Sawyer/Mark Twain/Simon and Schuster/Noval/590/62/
+Great Expectations/Charles Dickens/Chapman and Hall/Adventure/571/15/
+War and Peace/Leo Tolstoy/The Russian Messenger/Romantic/448/75/
+Siddhartha/Hermann Hesse/A New Directions Books/Philosophy/421/25/
+Uncle Tom's Cabin/Harriet Beecher Stowe/John Jewett and Company/Fiction/444/45/
+The Hound of the Baskervilles/Arthur Conan Doyle/George Newnes/Drama/563/71/
+Peter Pan/J. M. Barrie/Barrie's publishers/Adventure/553/91/
+The Souls of Black Folk/Du Bois/McClurg and Co./Noval/532/20/
+Pygmalion/Bernard Shaw/Simon and Schuster/Romantic/520/5/
+Dubliners/James Joyce/Grant Richards Ltd./Fiction/503/45/
+Frankenstein/Mary Wollstonecraft Shelley/Garland Publishing/Horror/420/75/
+Little Women/Louisa May Alcott/Roberts Brothers/Romantic/502/32/
+Treasure Island/Robert Louis Stevenson/Cassell/Adventure/500/64/
+Heart of Darkness/Joseph Conrad/Blackwood's Magazine/Fiction/496/35/
+A Christmas Carol/Charles Dickens/Chapman and Hall/Tale/473/92/
+The Time Machine/H. G. Wells/Heinemann/Sci-fi/334/22/
+The Wonderful Wizard of Oz/L. Frank Baum/George M. Hill Company/Adventure/461/42/
+The Turn of the Screw/Henry James/Macmillan Inc./Horror/457/25/
+War and Peace/Leo Tolstoy/The Russian Messenger/Noval/448/102/
+The Masque of the Red Death/Edgar Allan Poe/Graham's Magazine/Horror/351/31/
+Uncle Tom's Cabin/Harriet Beecher Stowe/John P.Jewett and Company/Noval/444/42/
+Ethan Frome/Edith Wharton/Charles Scribner's Sons/Horror/442/15/
+Prestuplenie i nakazanie/Fyodor Dostoyevsky/The Russian Messenger/War/351/75/
+The Iliad/Home/Atria Books/Poem/434/65/
+Tydore's Gift/Alfred Coppel/Andrews McMeel/Sci-fi/432/75/
+Siddhartha/Hermann Hesse/A New Directions Books/Noval/421/22/
+Frankenstein/Mary Wollstonecraft Shelley/Garland Publishing/Fiction/420/15/
+The Odyssey/Homer/Macmillan/Poem/395/58/
+The Republic/Plato/CreateSpace Publishing/Fiction/384/45/
+Snarled Identities/Nicholas Carter/David Edwards/Noval/383/26/
+The War of the Worlds/H. G. Wells/Heinemann/Sci-fi/382/45/
+Emma/Jane Austen/Simon and Schuster/Romantic/380/15/
+The Prophet/Kahlil Gibran/Alfred A. Knopf/Poem/375/25/
+Kurk Mantolu Madonna/Sabahattin Ali/Yapi Kredi Yayinlari/Romantic/177/33/
+Leviathan/Thomas Hobbes/Thomas Hobbes/Historical Fiction/366/45/
+Twas the Night/Clement Clarke Moore/Simon and Schuster/Tale/365/45/
+Prestuplenie i nakazanie/Fyodor Dostoyevsky/The Russian Messenger/Fiction/351/33/
+The Masque of the Red Death/Edgar Allan Poe/Graham's Magazine/Fiction/351/54/
+The Brumaire Bonaparte/Karl Marx/International Publishers/Philosophy/348/61/
+Don Quixote/Miguel de Cervantes Saavedra/Francisco de Robles/Comedy/335/67/
+The Time Machine/H. G. Wells/Heinemann/Fiction/334/92/
+Yaban/Yakup Kadri Karaosmanoglu/Iletisim Yayincilik/Historical Fiction/198/81/
+Benim Adim Kirmizi/Orhan Pamuk/Iletisim Yayinlari/Noval/476/45/
+Kurk Mantolu Madonna/Sabahattin Ali/Yapi Kredi Yayinlari/Noval/177/25/
+Sinekli Bakkal/Halide Edib Adivar/Can Yayincilik/Noval/208/75/
+Tutunamayanlar/Oguz Atay/Iletisim Yayincilik/Fiction/671/54/
+Aylak Adam/Yusuf Atilgan/Yapi Kredi Yayinlari/Fiction/252/51/
+Kiralik Konak/Yakup Kadri Karaosmanoglu/Iletisim Yayinlari/Fiction/232/9/
+Kirik Hayatlar/Halit Ziya Usakligil/Can Yayinleri/Noval/416/45/
+Ask-i Memnu/Halit Ziya Usakligil/Ozgur Yayincilik/Fiction/520/85/
